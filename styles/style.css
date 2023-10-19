@@ -100,10 +100,11 @@
 .two-columns {
   width: 80%;
   display: flex;
+  justify-content: center;
 }
 
 .two-columns__brief {
-  flex: 175px 0 0;
+  flex: 175px;
   font-size: 18px;
   line-height: 1.2;
   font-weight: normal;
@@ -113,6 +114,7 @@
 
 .two-columns__main-text {
   min-width: 784px;
+  width: 80%;
 }
 
 .two-columns__paragraph {
