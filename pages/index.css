@@ -2,9 +2,6 @@
 @import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
 
-/* подключаем миксы */
-@import url(../blocks/mixid/mixid.css);
-
 /* подключаем стили блоков */
 @import url(../blocks/header/header.css);
 @import url(../blocks/description/description.css);
@@ -24,6 +21,9 @@
 @import url(../blocks/table/table.css);
 @import url(../blocks/rotation/rotation.css);
 @import url(../blocks/cards/cards.css);
+@import url(../blocks/link/link.css);
+@import url(../blocks/centered-block/centered-block.css);
+@import url(../blocks/list/list.css);
 
 
 /* подключаем стили элементов */
@@ -58,7 +58,7 @@
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/footer/__column-link/footer__column-link.css);
-@import url(../blocks/footer/__autor/footer__autor.css);
+@import url(../blocks/footer/__author/footer__author.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__heading/table__heading.css);
