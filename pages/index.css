@@ -1,4 +1,5 @@
 /* подключаем глобальные стили */
+@import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
 
 /* подключаем миксы */
