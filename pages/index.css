@@ -1,3 +1,9 @@
+/* подключаем глобальные стили */
+@import url(../blocks/page/page.css);
+
+/* подключаем миксы */
+@import url(../blocks/mixid/mixid.css);
+
 /* подключаем стили блоков */
 @import url(../blocks/header/header.css);
 @import url(../blocks/description/description.css);
@@ -46,6 +52,3 @@
 @import url(../blocks/menu/__link/_theme/menu__link_theme_dark.css);
 @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
-@import url(../blocks/);
-@import url(../blocks/);
-@import url(../blocks/);
